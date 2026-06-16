@@ -63,7 +63,8 @@ The strategic findings are presented in a dynamic dashboard (`Marketing_Campaign
 
 ---
 ## Dashboard
-<img width="1468" height="811" alt="Screenshot 2026-06-09 210950" src="https://github.com/user-attachments/assets/d3c215f0-6265-4cb6-a901-971ad2b39558" /
+<img width="1172" height="643" alt="image" src="https://github.com/user-attachments/assets/ea8c830f-feb8-40d0-bfe9-08e41f62031d" />
+
 
 
 ## 🧪 Tech Stack
