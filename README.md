@@ -62,6 +62,9 @@ The strategic findings are presented in a dynamic dashboard (`Marketing_Campaign
 * **Behavioral Insights:** Mapping channel preferences against demographic segments.
 
 ---
+## Dashboard
+<img width="1468" height="811" alt="Screenshot 2026-06-09 210950" src="https://github.com/user-attachments/assets/d3c215f0-6265-4cb6-a901-971ad2b39558" /
+
 
 ## 🧪 Tech Stack
 * **Language:** Python 3.x
@@ -70,10 +73,4 @@ The strategic findings are presented in a dynamic dashboard (`Marketing_Campaign
 * **IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub
 
----
 
-## 🚀 How to Run
-Clone this repository:
-   ```bash
-
-   git clone: https://github.com/0836600804/NguyenVanDuyAn_B5.git
